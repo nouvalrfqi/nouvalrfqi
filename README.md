@@ -1,6 +1,7 @@
 # 😄 Hello, I'm Muhammad Nouval Rifqi!
 
-![Meme](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Meme](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
+
 
 Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligence**, especially in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Computer Vision**. I enjoy developing real-world solutions by building intelligent systems that can understand, generate, and perceive information. With a strong foundation in data analysis and problem-solving, I constantly seek to bridge the gap between theory and impactful applications.
 
