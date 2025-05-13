@@ -2,7 +2,7 @@
 
 ![Meme](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
 
-Welcome to my GitHub profile! 🚀 I'm an Informatics student at Universitas Syiah Kuala, passionate about **Machine Learning** and **Artificial Intelligence**. I enjoy developing innovative solutions for real-world problems and have experience in IoT, robotics, and tech education.
+Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligence**, especially in **Machine Learning (ML)**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Computer Vision**. I enjoy developing real-world solutions by building intelligent systems that can understand, generate, and perceive information. With a strong foundation in data analysis and problem-solving, I constantly seek to bridge the gap between theory and impactful applications.
 
 ## About Me
 - 🎓 **Education**: Bachelor of Informatics, Universitas Syiah Kuala 
