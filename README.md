@@ -7,8 +7,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about **Artificial Intelligenc
 
 ## About Me
 - 🎓 **Education**: Bachelor of Informatics, Universitas Syiah Kuala 
-- 🌱 **Currently Learning**: Advancing skills in ML/AI using TensorFlow, PyTorch, and Hugging Face
-- 💻 **Focus Areas**: Building ML/AI models and data-driven applications
+- 💻 **Focus Areas**: Advancing skills in ML,AI,NLP & Computer Vision
 - 📍 **Location**: Banda Aceh, Indonesia
 - 📫 **Contact**: [m.nouvalrfqi@gmail.com](mailto:m.nouvalrfqi@gmail.com) | [LinkedIn](https://linkedin.com/in/nouvalrfqi)
 
